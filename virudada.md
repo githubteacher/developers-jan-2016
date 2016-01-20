@@ -1,4 +1,4 @@
-# Viraj - virudada
+# Name : Viraj - virudada
 
-* Name : Viraj Kulkarni
+* Name : Viraj - virudada
 * Location : Earth
