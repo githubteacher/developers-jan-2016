@@ -1,4 +1,4 @@
 # M Boussarov
 
-* Name: M Boussarov
-* Location: San Diego, CA
+* **Name:** M Boussarov
+* **Location:** San Diego, CA
