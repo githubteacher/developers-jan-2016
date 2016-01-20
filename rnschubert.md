@@ -1,5 +1,5 @@
 # rnschubert
 
-* Name: rns
+* Name: rnschubert
 * Location: San Diego
 
