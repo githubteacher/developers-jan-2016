@@ -1,4 +1,4 @@
 # GitHub mnejat
 
-* Name: Github mnejat
-* Location: Here, there
+* **Name:** Github mnejat
+* **Location:** Here, there
