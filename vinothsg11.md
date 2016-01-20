@@ -1,4 +1,4 @@
-#Github student
+#Name: Vinoth
 
-* Name : Vinoth
-* Location : Singapore
+* Name: Vinoth
+* Location: Singapore
