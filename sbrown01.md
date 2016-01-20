@@ -1,4 +1,5 @@
 # Name: GitHub Student
 
-* Name: Student
-* Location: Mountain View, CA
+* **Name:** Student
+* **Location:** Mountain View, CA
+
