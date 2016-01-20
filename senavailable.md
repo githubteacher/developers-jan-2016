@@ -1,4 +1,4 @@
 # Name Senthil Arumugam
 
-* Name: Senthil Arumugam
-* Location: Menlo Park, CA
+** Name:** Senthil Arumugam
+** Location:** Menlo Park, CA
