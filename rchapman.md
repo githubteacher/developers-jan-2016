@@ -1,4 +1,4 @@
 # GitHub Student
 
-* Name: rchapman
-* Location:  San Jose, CA
+* **Name** rchapman
+* **Location**  San Jose, CA
