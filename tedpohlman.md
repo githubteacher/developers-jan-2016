@@ -1,4 +1,4 @@
 # Ted Pohlman
 
-* name: Ted Pohlman 
-* location Mt. View , CA
+* ** Name:** Ted Pohlman 
+* ** Location:** Mt. View , CA
