@@ -1,4 +1,4 @@
 # Marko S Rukonic
 
-* Name: Marko Rukonic
-* Location: San Jose, CA
+* **Name:** Marko Rukonic
+* **Location:** San Jose, CA
