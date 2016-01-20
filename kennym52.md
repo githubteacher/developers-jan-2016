@@ -1,4 +1,4 @@
 # GitHub Kennym52
 
-* Name: Kennym
+* Name: Kennym52
 * Location: San Diego, CA
