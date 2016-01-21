@@ -1,4 +1,4 @@
-* Name: Ankita Student
+# Name: Ankita Iyer
 
 ** Name: ** Ankita Student
 ** Location:** MountainView, CA
