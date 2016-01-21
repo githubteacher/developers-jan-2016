@@ -1,0 +1,219 @@
+git --version
+git config --list
+git config user.name
+git config --global user.name "GitHub Teacher"
+git config user.name
+git config --global user.name "GitHub Student"
+git config user.name
+git config --global user.email
+git config --global core.editor "atom --wait"
+git clone https://github.com/githubteacher/developers-jan-2016.git
+git clone https://github.com/githubteacher/developers-jan-2016.git new-folder
+ls
+git status
+cd developers-jan-2016/
+git status
+git pull
+ls
+open .
+git status
+git branch
+git branch -a
+git branch githubstudent-edits
+git branch
+git status
+git checkout githubstudent-edits
+atom .
+notepad githubstudent.md
+ls
+git status
+git add githubstudent.md
+git status
+git commit
+atom
+git config core.editor
+git status
+git push
+git remote
+git remote -v
+git push -u origin githubstudent-edits
+git add githubstudent.md
+git commit
+git push
+git branch
+git branch -v
+git branch -vv
+git status
+git checkout master
+git pull
+git remote
+git remote -v
+git branch -vv
+git branch -v
+git branch -vv
+git checkout githubstudent-edits
+git status
+git diff
+git add githubstudent.md
+git diff
+git status
+git diff --staged
+git diff
+git diff --color-words
+git status
+git diff
+git diff --staged
+git diff HEAD
+git diff HEAD --color-words
+git status
+git diff --staged
+git diff
+git status
+git commit -m "Add breakfast for githubstudent"
+git status
+git diff
+git add *.md
+git status
+git commit -m "Username -> User"
+git status
+git log
+git log --oneline
+git log --oneline --decorate
+git log --oneline --decorate --all
+git log --oneline --decorate --graph --all
+git push
+git status
+git checkout master
+git diff
+git checkout master
+git stash
+git status
+git stash list
+git stash list --patch
+git stash list --patch --color-words
+git checkout master
+git stash pop
+git status
+git stash
+git status
+git add githubstudent.md
+git stash
+git status
+la .git
+ls -a .git
+git status
+git checkout githubstudent-edits
+git log --oneline --decorate --graph
+git config --global alias.lol "log --oneline --decorate --graph"
+git lol
+git lol --all
+git log -1
+git log -2
+git lol -5
+git checkout -b githubstudent-conflict
+git lol -5
+git status
+git add .
+git status
+git reset HEAD .DS_Store
+git status
+git diff
+git diff --staged
+git commit -m "Use my real name"
+git lol -5
+git checkout -
+git lol -5
+git lol -5 --all
+git status
+git add -U
+git add -A
+git status
+git reset HEAD .DS_Store
+git add -u
+git status
+git diff --staged
+git commit -m "Hello my name is"
+git lol -5
+git lol --all -5
+git merge githubstudent-conflict
+git status
+git add githubstudent.md
+git status
+git commit
+git lol --all -6
+git push
+cd ..
+pwd
+ls
+cd example
+ls
+git init .
+ls -a
+git status
+git remote add origin https://github.com/githubstudent/example.git
+git push -u origin master
+git add about.html
+git add *.html
+git status
+git commit -m "Initial commit"
+git push -u origin master
+atom .
+git add *.md
+git status
+git push
+git commit -m "Add readme"
+git push
+git status
+git add *.html
+git status
+git add about\ 2_revised_edits_FINAL_edits_FINAL_REALLY.html
+git status
+git reset HEAD about\ 2_revised_edits_FINAL_edits_FINAL_REALLY.html
+git status
+git rm --cached about\ 2_revised_edits_FINAL_edits_FINAL_REALLY.html
+git status
+git commit -m "Do not track revised_edits_FINAL..."
+git status
+git push
+git status
+git add .gitignore
+git status
+git commit -m "Add a .gitignore file"
+git push
+ls
+git status
+git add .
+git status
+git commit -m "Add product listing"
+git push
+git add .
+git commit -m "I think I'm fixing this"
+git push
+git log
+git revert a700854
+git lol -3
+git push
+git log --patch -2
+touch file; git add file; git commit -m "Add file"
+git lol -3
+git reset origin/master
+ls
+git status
+git lol -3
+git add file
+git commit "Add file"
+git commit -m "Add file"
+git lol -4
+git reset --hard origin/master
+ls
+git reflog
+git reset --hard 7fd1a5f
+ls
+git lol -5
+touch A; git add A; git commit -m "A"
+touch B; git add B; git commit -m "B"
+touch C; git add C; git commit -m "C"
+git lol -4
+git lol -5
+git rebase -i origin/master
+git lol -5
