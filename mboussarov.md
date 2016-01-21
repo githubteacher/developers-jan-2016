@@ -2,3 +2,4 @@
 
 * **Name:** M Boussarov
 * **Location:** San Diego, CA
+* **Lunch:** Thai
