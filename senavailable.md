@@ -1,6 +1,6 @@
 # Name Senthil Arumugam
 
-** Name:** Senthil Arumugam
-** username**: @senavailable
-** Location:** Menlo Park, CA
-* Breakfast - None
+**Name:** Senthil Arumugam
+**User:** @senavailable
+**Location:** Menlo Park, CA
+**Breakfast:** Fruits
