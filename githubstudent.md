@@ -1,4 +1,4 @@
-# Name: GitHub Student
+# Name: Joshua Wehner
 
 * **Name:** GitHub Student
 * **User:** @githubstudent
