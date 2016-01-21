@@ -1,4 +1,4 @@
-# GitHub Student
+# GitHub Raymond Chapman
 
 * **UserName** rchapman
 * **Location**  San Jose, CA
