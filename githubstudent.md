@@ -1,4 +1,4 @@
-# Name: GitHub Student
+# Hello, my name is GitHub Student
 
 * **Name:** GitHub Student
 * **User:** @githubstudent
