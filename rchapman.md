@@ -2,4 +2,4 @@
 
 * **UserName** rchapman
 * **Location**  San Jose, CA
-* **Breakfast** Toast
+* **Breakfast** Toast and Eggs
