@@ -1,4 +1,4 @@
-# Name: GitHub Student
+# Name: Sharon Brown
 
 * **Name:** Student
 * **Location:** Mountain View, CA
