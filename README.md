@@ -6,6 +6,7 @@ https://training.github.com/kit/courses/github-for-developers.html
 ## Resources
 
 - [Survey](https://www.surveymonkey.com/r/PR7STH6)
+- [Git Branching](http://pcottle.github.io/learnGitBranching/)
 - [Git reference docs](http://git-scm.com/docs)
 - [Git cheat sheet](http://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 - [*ProGit*](http://git-scm.com/book) by Scott Chacon (free)
