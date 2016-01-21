@@ -1,6 +1,6 @@
 # Marko S Rukonic
 
 * **Name:** Marko Rukonic
-* **Handle:** mrukonic
+* **User:** mrukonic
 * **Location:** San Jose, CA
 * **Breakfast:** Oatmeal
