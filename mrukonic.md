@@ -1,4 +1,4 @@
-# Marko S Rukonic
+# Hello, my name is Marko Rukonic
 
 * **Name:** Marko Rukonic
 * **User:** mrukonic
