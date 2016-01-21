@@ -1,4 +1,5 @@
 # GitHub Student
 
-* **Name** rchapman
+* **UserName** rchapman
 * **Location**  San Jose, CA
+* **Breakfast** Toast
