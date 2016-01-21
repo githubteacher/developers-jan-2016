@@ -1,6 +1,6 @@
 # Name: GitHub Student
 
 * **Name:** GitHub Student
-* **Username:** @githubstudent
+* **User:** @githubstudent
 * **Location:** Minneapolis, MN
 * **Breakfast:** Oatmeal
