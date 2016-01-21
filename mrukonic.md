@@ -1,6 +1,6 @@
-# Marko S Rukonic
+# mrukonic
 
 * **Name:** Marko Rukonic
 * **User:** mrukonic
 * **Location:** San Jose, CA
-* **Breakfast:** Eggs
+* **Breakfast:** Eggs and ham
