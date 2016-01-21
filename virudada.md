@@ -7,4 +7,7 @@
 * **UserName : Viraj - virudada
 * **Location : Earth
 * **Breakfast : Eggs && Oatmeal
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
