@@ -1,4 +1,4 @@
 #Github burgesjm
 
-* bullet 1
-* bullet 2
+* Name: burgesjm
+* Location: Edmonton, AB
