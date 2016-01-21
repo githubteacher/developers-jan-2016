@@ -1,4 +1,4 @@
-# Hello, my name is M Boussarov
+# Name: Miroslav Boussarov
 
 * **User Name:** M Boussarov
 * **Location:** San Diego, CA
