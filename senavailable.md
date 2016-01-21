@@ -2,3 +2,4 @@
 
 * Name: Senthil Arumugam
 * Location: Menlo Park, CA
+* Breakfast: Fruits
